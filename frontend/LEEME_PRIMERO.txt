@@ -1,0 +1,26 @@
+Pizzería Mamma Mia
+
+1. Descargar o clonar este repositorio.
+2. Abrir la carpeta del proyecto en Visual Studio Code.
+3. Abrir una terminal.
+4. Ejecutar:
+
+```bash
+npm install
+```
+
+5. Una vez finalizada la instalación, ejecutar:
+
+```bash
+npm run dev
+```
+
+6. Abrir en el navegador la dirección local que entrega Vite.
+
+Tecnologías utilizadas
+
+- React
+- JavaScript
+- HTML
+- CSS
+- Vite
